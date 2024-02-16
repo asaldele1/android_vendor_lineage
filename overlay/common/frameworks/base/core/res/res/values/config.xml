@@ -128,6 +128,12 @@
        <item>app_cloning/cloned_apps_enabled=true</item>
        <item>app_cloning/delete_all_app_clones_enabled=true</item>
        <item>app_cloning/enable_app_cloning_building_blocks=true</item>
+
+       <item>storage_native_boot/take_over_get_content=true</item>
+
+        <!-- Media Provider -->
+        <item>mediaprovider/cloud_media_feature_enabled=true</item>
+        <item>mediaprovider/cloud_media_enforce_provider_allowlist=false</item>       
     </string-array>
     
     <!-- Flag indicating which package name can access DeviceConfig table -->
